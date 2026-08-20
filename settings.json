@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "imnotditto.aternos.me",
-    "port": 27586,
-    "version": "1.21",
+    "ip": "91.98.147.128",
+    "port": 25880,
+    "version": "auto",
     "try-creative": true
   },
   "position": {
